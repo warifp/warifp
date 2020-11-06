@@ -20,6 +20,10 @@
 <a href="https://github.com/warifp">
   <img align="left" alt="Wahyu's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />
 </a>
+
+#
+[![trophy](https://github-profile-trophy.vercel.app/?username=warifp)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **warifp/warifp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
