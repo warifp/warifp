@@ -26,6 +26,14 @@
 I live in Yogyakarta - Indonesian, I'm currently working as Programmer (full-time) and as a freelancer Security Analyst (halftime). ❤ Serverless, Dev  Community, Security, and Creative Coding!
 </em>** 
 #
+
+<details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=warifp&show_icons=true&theme=gotham" alt="Wahyu's | Stats" />
+
+</details>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=warifp)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
