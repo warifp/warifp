@@ -20,6 +20,9 @@
 <a href="https://github.com/warifp">
   <img align="left" alt="Wahyu's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />
 </a>
+<a href="https://dev.to/warifp">
+  <img align="left" alt="Wahyu Arif Purnomo's DEV Profile" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg">
+</a>
 
 #
 > **<em>I am a Developer from Indonesia. passionate about making open source more accessible, creating technology to evaluate people, and building community. I can work well on my own initiative and as part of a team, focus in a position with full responsibility and honesty. My main strength is adaptability, and the determination to get the job done, develops a new experience. Learning something new from every experience because I believe there is always room for self improvement both personally and professionally.</em>**
