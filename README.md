@@ -22,7 +22,9 @@
 </a>
 
 #
-> **<em>I am a Developer from Indonesia. passionate about making open source more accessible, creating technology to evaluate people, and building community. I can work well on my own initiative and as part of a team, focus in a position with full responsibility and honesty. My main strength is adaptability, and the determination to get the job done, develops a new experience. Learning something new from every experience because I believe there is always room for self improvement both personally and professionally.</em>** 
+> **<em>I am a Developer from Indonesia. passionate about making open source more accessible, creating technology to evaluate people, and building community. I can work well on my own initiative and as part of a team, focus in a position with full responsibility and honesty. My main strength is adaptability, and the determination to get the job done, develops a new experience. Learning something new from every experience because I believe there is always room for self improvement both personally and professionally.
+I live in Yogyakarta - Indonesian, I'm currently working as Programmer (full-time) and as a freelancer Security Analyst (halftime). ❤ Serverless, Dev  Community, Security, and Creative Coding!
+</em>** 
 #
 [![trophy](https://github-profile-trophy.vercel.app/?username=warifp)](https://github.com/ryo-ma/github-profile-trophy)
 
