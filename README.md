@@ -33,12 +33,8 @@
 </em>** 
 #
 
-<details>
-  <summary><b>📊 Github Stats</b></summary>
-  <img alt="Wahyu's github stats" src="https://github-readme-stats.vercel.app/api?username=warifp&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24"/>
-  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warifp&layout=compact&hide_border=true"/>
-</details>
+<a href="https://github.com/warifp?tab=repositories" title="Wahyu Arif Purnomo"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warifp&bg_color=151515&text_color=9f9f9f&title_color=fff&layout=compact" /></a>
+<a href="https://github.com/warifp" title="Wahyu Arif Purnomo"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=warifp&show_icons=true&theme=gradient&title_color=fff&icon_color=5C9FF0&text_color=9f9f9f&bg_color=151515" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=warifp)](https://github.com/ryo-ma/github-profile-trophy)
 
