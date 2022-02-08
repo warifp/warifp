@@ -36,8 +36,6 @@
 <a href="https://github.com/warifp?tab=repositories" title="Wahyu Arif Purnomo"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warifp&bg_color=151515&text_color=9f9f9f&title_color=fff&layout=compact" /></a>
 <a href="https://github.com/warifp" title="Wahyu Arif Purnomo"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=warifp&show_icons=true&theme=gradient&title_color=fff&icon_color=5C9FF0&text_color=9f9f9f&bg_color=151515" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=warifp)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **warifp/warifp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
