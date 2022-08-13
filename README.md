@@ -32,8 +32,10 @@
 </em>** 
 #
 
-<a href="https://github.com/warifp?tab=repositories" title="Wahyu Arif Purnomo"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warifp&bg_color=151515&text_color=9f9f9f&title_color=fff&layout=compact" /></a>
-<a href="https://github.com/warifp" title="Wahyu Arif Purnomo"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=warifp&show_icons=true&theme=gradient&title_color=fff&icon_color=5C9FF0&text_color=9f9f9f&bg_color=151515" /></a>
+<a align= "center" href="https://github.com/warifp">
+    <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=warifp&theme=prussian&hide_border=true&show_icons=true&count_private=true" />
+    <img align='right' alt= "stats card" height="200px" width="400" src="http://github-readme-streak-stats.herokuapp.com/?user=warifp&hide_border=true&theme=prussian&background=193549D&stroke=00E6FE" />
+</a>
 
 <!--
 **warifp/warifp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
