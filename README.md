@@ -28,10 +28,6 @@
 > **<em>I am a Developer from Indonesia. passionate about making open source more accessible, creating technology to evaluate people, and building community. I can work well on my own initiative and as part of a team, focus in a position with full responsibility and honesty. My main strength is adaptability, and the determination to get the job done, develops a new experience. Learning something new from every experience because I believe there is always room for self improvement both personally and professionally.</em>**
 
 
-> **<em>I live in Yogyakarta - Indonesian, I'm currently working as Programmer (full-time) and as a freelancer Security Analyst (halftime). ❤ Serverless, Dev  Community, Security, and Creative Coding!
-</em>** 
-#
-
 <a align= "center" href="https://github.com/warifp">
     <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=warifp&theme=prussian&hide_border=true&show_icons=true&count_private=true" />
     <img align='right' alt= "stats card" height="200px" width="400" src="http://github-readme-streak-stats.herokuapp.com/?user=warifp&hide_border=true&theme=prussian&background=193549D&stroke=00E6FE" />
